@@ -24,6 +24,7 @@ Images Generated
 <img width="950" height="222" alt="image" src="https://github.com/user-attachments/assets/dbe67fac-6452-47bc-89a1-83a203dd35f9" />
 
 Resources that helped me build this project:
+
 -[DDPM Paper](https://arxiv.org/abs/2006.11239)
 -[Diffusion Transformer Paper](https://arxiv.org/abs/2212.09748)
 -[Kaggle Anime Face Dataset](https://www.kaggle.com/datasets/splcher/animefacedataset)
