@@ -11,15 +11,22 @@ Both the U-Net and the Transformer architecture models have been trained for app
 
 <img width="1649" height="568" alt="image" src="https://github.com/user-attachments/assets/8696292e-7e70-4219-a6ec-7a70d7023f22" />
 
+Images Generated
+
+<img width="950" height="222" alt="image" src="https://github.com/user-attachments/assets/3dd7a24c-939f-4891-8ef0-4efaf2556274" />
 
 # Diffusion Model with Transformer Architecture
 
+<img width="1626" height="649" alt="image" src="https://github.com/user-attachments/assets/3be0fb3b-6d96-4254-8576-e68824015e8b" />
 
+Images Generated
+
+<img width="950" height="222" alt="image" src="https://github.com/user-attachments/assets/dbe67fac-6452-47bc-89a1-83a203dd35f9" />
 
 Resources that helped me build this project:
-[DDPM Paper](https://arxiv.org/abs/2006.11239)
-[Diffusion Transformer Paper](https://arxiv.org/abs/2212.09748)
-[Kaggle Anime Face Dataset](https://www.kaggle.com/datasets/splcher/animefacedataset)
-[LPIPS Tensorflow module](https://github.com/moono/lpips-tf2.x)
-[DDPM Explanation](https://www.youtube.com/watch?v=H45lF4sUgiE)
-[DiT Explanation](https://www.youtube.com/watch?v=aSLDXdc2hkk)
+-[DDPM Paper](https://arxiv.org/abs/2006.11239)
+-[Diffusion Transformer Paper](https://arxiv.org/abs/2212.09748)
+-[Kaggle Anime Face Dataset](https://www.kaggle.com/datasets/splcher/animefacedataset)
+-[LPIPS Tensorflow module](https://github.com/moono/lpips-tf2.x)
+-[DDPM Explanation](https://www.youtube.com/watch?v=H45lF4sUgiE)
+-[DiT Explanation](https://www.youtube.com/watch?v=aSLDXdc2hkk)
